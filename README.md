@@ -31,7 +31,7 @@ This project demonstrates a simple microservices architecture using **NestJS** f
 ### Step 1: Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/zomato-microservices.git
+git clone https://github.com/simerdev/api-gatway-example.git
 cd zomato-microservices
 ```
 
