@@ -1,4 +1,4 @@
-# Zomato-inspired Microservices using NestJS (Activity 8)
+# Zomato-inspired Microservices using NestJS
 
 This project demonstrates a simple microservices architecture using **NestJS** for a Zomato-style system with an **API Gateway**, a **Restaurant Service**, and a **Menu Service**. Built using **Domain-Driven Design** principles and MongoDB as the database.
 
